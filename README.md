@@ -45,22 +45,24 @@ acontinuacion es necesario instalar el siguiente parche
 
 en caso que despues de reiniciar deje de funcionar es necesario seguir el siguiente orden
 
+||10 de agosto|15.0.5371.1000|[KB 5001965](https://support.microsoft.com/help/5001965)|
+
 |**Tipo de Actualizacion**|**Número de versión**|**Descargar**|
 |:-----|:-----|:-----|:-----|
-||Actualización de seguridad para Microsoft Office 2013 |[KB 3172524](https://www.microsoft.com/es-ES/download/details.aspx?id=56056)  |
-||Actualización para Microsoft Office 2013|[KB 4011169](https://www.microsoft.com/es-ES/download/details.aspx?id=55998)  |
+||Actualización de seguridad para Microsoft Office 2013   |[KB 3172524](https://www.microsoft.com/es-ES/download/details.aspx?id=56056)  |
+||Actualización para Microsoft Office 2013                |[KB 4011169]|(https://www.microsoft.com/es-ES/download/details.aspx?id=55998)  |
 ||Actualización de seguridad para Microsoft Office 2013 |[KB 3172531](https://www.microsoft.com/es-ES/download/details.aspx?id=56082)  |
-||Actualización de seguridad para Microsoft Outlook 2013 |KB 40111780](https://www.microsoft.com/es-ES/download/details.aspx?id=56055)  |
-||Actualización de seguridad para Microsoft Outlook 2013 |KB 4011148](https://www.microsoft.com/es-ES/download/details.aspx?id=56017)  |
-||Actualización de seguridad para Microsoft Outlook 2013 |KB 2817430](https://www.microsoft.com/es-es/download/details.aspx?id=42006)  |
-||Actualización de seguridad para Microsoft Outlook 2013 |KB 5001934](https://www.microsoft.com/es-ES/download/details.aspx?id=103208)  |
+||Actualización de seguridad para Microsoft Outlook 2013 |[KB 40111780](https://www.microsoft.com/es-ES/download/details.aspx?id=56055)  |
+||Actualización de seguridad para Microsoft Outlook 2013 |[KB 4011148](https://www.microsoft.com/es-ES/download/details.aspx?id=56017)  |
+||Actualización de seguridad para Microsoft Outlook 2013 |[KB 2817430](https://www.microsoft.com/es-es/download/details.aspx?id=42006)  |
+||Actualización de seguridad para Microsoft Outlook 2013 |[KB 5001934](https://www.microsoft.com/es-ES/download/details.aspx?id=103208)  |
 
 Esta actualización de seguridad resuelve una vulnerabilidad de ejecución remota de código de Microsoft Office CVE-2022-21840
 
 |**Tipo de Actualizacion**|**Número de versión**|**Descargar**|
 |:-----|:-----|:-----|:-----|
-|Security Update for Microsoft Office 2013|[KB 5002124](https://www.microsoft.com/en-us/download/details.aspx?id=103821
-|Security Update for Microsoft Office 2013|[KB 3172514](https://www.microsoft.com/es-es/download/details.aspx?id=103916)
+|Security Update for Microsoft Office 2013|[KB 5002124](https://www.microsoft.com/en-us/download/details.aspx?id=103821|
+|Security Update for Microsoft Office 2013|[KB 3172514](https://www.microsoft.com/es-es/download/details.aspx?id=103916)|
 
 enlace para descarga en ONE DRIVE
 
