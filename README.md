@@ -142,4 +142,6 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 ||14 de mayo   |15.0.4505.1006   |[KB 2847265](https://support.microsoft.com/kb/2847265)  |
 ||9 de abril   |15.0.4481.1510   |[KB 2833132](https://support.microsoft.com/kb/2833132)  |
    
+   
+ by Mikael
 
