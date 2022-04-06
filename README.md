@@ -20,10 +20,49 @@ Para comprobar su versión de Office, siga estos pasos:
 
 La tabla siguiente contiene una lista de actualizaciones para Office 2013, con la fecha de publicación más reciente en primer lugar. La tabla incluye el número de versión y un vínculo al artículo de Microsoft Knowledge Base (KB), si está disponible, con información sobre las correcciones que se incluyen en la actualización.
   
-Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
+> [FIX outlook]
+  
+ ![Image text](https://github.com/zerosorai/Update-Office-2013/blob/main/fix.PNG)
+
+
+problemas dan como origen el sigueinte problema al usuario dentro de outlook 2013 
+
+ ![Image text](https://github.com/zerosorai/Update-Office-2013/blob/main/fix2.png)
+
+para poder solucionar el problema sera necesario que tenga la compilacion 15.0.5327.1000 o superior
+
+los siguientes paquetes son necesarios 
+
+debera de tener el service pack 1 en caso de no tenerlo aqui esta su enlace de descarga
+||25 de febrero   |15.0.4569.1507   |[KB 2817430](https://support.microsoft.com/kb/2817430) (Service Pack 1)   |
+
+acontinuacion es necesario instalar el siguiente parche 
+
+||9 de marzo|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
+
+en caso que despues de reiniciar deje de funcionar es necesario seguir el siguiente orden
+
+
+||Actualización de seguridad para Microsoft Office 2013 |[KB 3172524](https://www.microsoft.com/es-ES/download/details.aspx?id=56056)  |
+||Actualización para Microsoft Office 2013|[KB 4011169](https://www.microsoft.com/es-ES/download/details.aspx?id=55998)  |
+||Actualización de seguridad para Microsoft Office 2013 |[KB 3172531](https://www.microsoft.com/es-ES/download/details.aspx?id=56082)  |
+||Actualización de seguridad para Microsoft Outlook 2013 |KB 40111780](https://www.microsoft.com/es-ES/download/details.aspx?id=56055)  |
+||Actualización de seguridad para Microsoft Outlook 2013 |KB 4011148](https://www.microsoft.com/es-ES/download/details.aspx?id=56017)  |
+||Actualización de seguridad para Microsoft Outlook 2013 |KB 2817430](https://www.microsoft.com/es-es/download/details.aspx?id=42006)  |
+||Actualización de seguridad para Microsoft Outlook 2013 |KB 5001934](https://www.microsoft.com/es-ES/download/details.aspx?id=103208)  |
+
+Esta actualización de seguridad resuelve una vulnerabilidad de ejecución remota de código de Microsoft Office CVE-2022-21840 .
+|Security Update for Microsoft Office 2013|[KB 5002124](https://www.microsoft.com/en-us/download/details.aspx?id=103821
+|Security Update for Microsoft Office 2013|[KB 3172514](https://www.microsoft.com/es-es/download/details.aspx?id=103916)
+
+enlace para descarga en ONE DRIVE
+
+https://drive.google.com/drive/folders/1eeF_AN06figdkBt48PoDxpzCcPy7EQPl?usp=sharing
+
+
 
 > [!NOTE]
-> Los artículos de Knowledge Base que se muestran a continuación son solo informativos. Las actualizaciones de Hacer clic y ejecutar incluyen todas las correcciones especificadas en los artículos de Knowledge Base. No es necesario descargar las actualizaciones independientes que se muestran en los artículos de Knowledge Base.
+> Los artículos de Knowledge Base que se muestran a continuación son solo informativos muestran  su compilacion y enlace de la version para descargar. para ubicar la ultima actualizacion ubicar la ultima compilacion en la tabla;  incluyen todas las correcciones especificadas en los artículos de Knowledge Base. No es necesario descargar las actualizaciones independientes que se muestran en los artículos de Knowledge Base.
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
@@ -143,11 +182,7 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
 ||9 de abril   |15.0.4481.1510   |[KB 2833132](https://support.microsoft.com/kb/2833132)  |
    
    
- by Mikael
+ by Zerosorai
  
- FIX outlook
-  
- ![Image text](https://github.com/zerosorai/Update-Office-2013/blob/main/fix.PNG)
-
-
+ 
 
