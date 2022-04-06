@@ -144,5 +144,10 @@ Las versiones nuevas incluyen todas las actualizaciones de versiones anteriores.
    
    
  by Mikael
+ 
+ FIX outlook
+  
+ ![Image text](https://github.com/zerosorai/Update-Office-2013/blob/main/fix.PNG)
+
 
 
