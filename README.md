@@ -22,8 +22,8 @@ La tabla siguiente contiene una lista de actualizaciones para Office 2013, con l
   
 ### FIX outlook
   
-![Screenshot](https://github.com/zerosorai/Update-Office-2013/blob/main/fix.PNG)
-![alt text](https://github.com/zerosorai/Update-Office-2013/blob/main/fix.PNG)
+
+![alt text](https://github.com/zerosorai/Update-Office-2013/blob/main/fix.png)
 
 problemas dan como origen el sigueinte problema al usuario dentro de outlook 2013 
 
