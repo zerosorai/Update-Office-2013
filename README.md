@@ -21,13 +21,9 @@ Para comprobar su versión de Office, siga estos pasos:
 La tabla siguiente contiene una lista de actualizaciones para Office 2013, con la fecha de publicación más reciente en primer lugar. La tabla incluye el número de versión y un vínculo al artículo de Microsoft Knowledge Base (KB), si está disponible, con información sobre las correcciones que se incluyen en la actualización.
   
 ### FIX outlook
-  
 
-![alt text](https://github.com/zerosorai/Update-Office-2013/blob/main/fix.png)
+![fix.png](https://raw.githubusercontent.com/zerosorai/Update-Office-2013/6311c107f10a0b1bf419d08872a9d3002290485c/fix.PNG)
 
-problemas dan como origen el sigueinte problema al usuario dentro de outlook 2013 
-
- ![Image text](https://github.com/zerosorai/Update-Office-2013/blob/main/fix2.png)
 
 para poder solucionar el problema sera necesario que tenga la compilacion 15.0.5327.1000 o superior
 
