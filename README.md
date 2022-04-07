@@ -34,16 +34,19 @@ debera de tener el service pack 1 en caso de no tenerlo aqui esta su enlace de d
 |:-----|:-----|:-----|
 |Actualización para Microsoft Office 2013 15.0.4569.1507|00 |[KB 2817430](https://support.microsoft.com/kb/2817430) (Service Pack 1)|
 
-acontinuacion es necesario instalar el siguiente parche 
+acontinuacion es necesario instalar los siguientes parches en el siguiente orden 
+
+primero en KB 4493174 despues KB 5002151
 
 |**Fecha de publicación**|**Número de versión**|**Número de versión para Descargar**|
 |:-----|:-----|:-----|
-|9 de marzo|15.0.5327.1000|[KB 4493174](https://www.microsoft.com/es-ES/download/details.aspx?id=102764)|
-|8 Febrero |15.0.5423.1000|[KB 5002151](https://www.microsoft.com/en-us/download/details.aspx?id=103887)|
+|9 de marzo   |15.0.5327.1000|[KB 4493174](https://www.microsoft.com/es-ES/download/details.aspx?id=102764)|
+|8 de Febrero |15.0.5423.1000|[KB 5002151](https://www.microsoft.com/en-us/download/details.aspx?id=103887)|
 
 
+posterior reiniciar y verificar que funcione, en caso que despues de reiniciar falle de nuevo hay que realizar las siguientes acciones
+se instalaran en el siguiente orden las siguientes actualizaciones.
 
-en caso que despues de reiniciar deje de funcionar es necesario seguir el siguiente orden
 
 |**Tipo de Actualizacion**|**Orden de Instalacion**|**Número de versión para Descargar**|
 |:-----|:-----|:-----|
