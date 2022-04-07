@@ -38,7 +38,10 @@ acontinuacion es necesario instalar el siguiente parche
 
 |**Fecha de publicación**|**Número de versión**|**Número de versión para Descargar**|
 |:-----|:-----|:-----|
-|9 de marzo|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
+|9 de marzo|15.0.5327.1000|[KB 4493174](https://www.microsoft.com/es-ES/download/details.aspx?id=102764)|
+|8 Febrero |15.0.5423.1000|[KB 5002151](https://www.microsoft.com/en-us/download/details.aspx?id=103887)|
+
+https://www.microsoft.com/en-us/download/details.aspx?id=102764
 
 en caso que despues de reiniciar deje de funcionar es necesario seguir el siguiente orden
 
