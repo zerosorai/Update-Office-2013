@@ -71,7 +71,8 @@ enlace para descarga en GDrive
 |Repositorio|[Descargar](https://drive.google.com/drive/folders/1eeF_AN06figdkBt48PoDxpzCcPy7EQPl?usp=sharing)
 
 ### FIX outlook 2016 Abril 2022
-
+|**Tipo de Actualizacion**|**Número de versión para Descargar**|
+|:-----|:-----|
 |Security Update for Microsoft Office 2016|[KB 5001998](https://www.microsoft.com/es-ES/download/details.aspx?id=103493)|
 |Security Update for Microsoft Office 2016|[KB 4484104](https://www.microsoft.com/es-ES/download/details.aspx?id=104255)|
 
