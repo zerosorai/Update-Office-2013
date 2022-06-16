@@ -70,6 +70,12 @@ enlace para descarga en GDrive
 |:-----|:-----|
 |Repositorio|[Descargar](https://drive.google.com/drive/folders/1eeF_AN06figdkBt48PoDxpzCcPy7EQPl?usp=sharing)
 
+### FIX outlook 2016 Abril 2022
+
+|Security Update for Microsoft Office 2016|[KB 5001998](https://www.microsoft.com/es-ES/download/details.aspx?id=103493)
+|Security Update for Microsoft Office 2016|[KB 4484104](https://www.microsoft.com/es-ES/download/details.aspx?id=104255)
+
+
 
 
 
@@ -79,8 +85,10 @@ enlace para descarga en GDrive
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
-|2022|8 de marzo|15.0.5431.1000|[KB 5002074](https://support.microsoft.com/help/5002074)
-||8 de febrero|15.0.5423.1000|[KB 5002073](https://support.microsoft.com/help/5002073)
+|2022|June 14	|	15.0.5459.1000|[KB 5002076](https://support.microsoft.com/help/5002077)
+||May 10|15.0.5449.1000|[KB 5002076](https://support.microsoft.com/help/5002076)
+||12 de Abril|15.0.5441.1000|[KB 5002075](https://support.microsoft.com/help/5002075)
+||8 de marzo|15.0.5431.1000|[KB 5002074](https://support.microsoft.com/help/5002074)
 ||11 de enero|15.0.5415.1001|[KB 5001970](https://support.microsoft.com/help/5001970)
 |2021|14 de diciembre|15.0.5407.1000|[KB 5001969](https://support.microsoft.com/help/5001969)
 ||9 de noviembre|15.0.5397.1002|[KB 5001968](https://support.microsoft.com/help/5001968)
