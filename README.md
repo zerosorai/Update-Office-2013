@@ -61,8 +61,8 @@ se instalaran en el siguiente orden las siguientes actualizaciones.
 Esta actualización de seguridad resuelve una vulnerabilidad de ejecución remota de código de Microsoft Office CVE-2022-21840
 |**Tipo de Actualizacion**|**Número de versión para Descargar**|
 |:-----|:-----|
-|Security Update for Microsoft Office 2013|[KB 5002124](https://www.microsoft.com/en-us/download/details.aspx?id=103821)
-|Security Update for Microsoft Office 2013|[KB 3172514](https://www.microsoft.com/es-es/download/details.aspx?id=103916)
+|Security Update for Microsoft Office 2013|[KB 5002124](https://www.microsoft.com/en-us/download/details.aspx?id=103821)|
+|Security Update for Microsoft Office 2013|[KB 3172514](https://www.microsoft.com/es-es/download/details.aspx?id=103916)|
 
 
 enlace para descarga en GDrive
@@ -72,8 +72,8 @@ enlace para descarga en GDrive
 
 ### FIX outlook 2016 Abril 2022
 
-|Security Update for Microsoft Office 2016|[KB 5001998](https://www.microsoft.com/es-ES/download/details.aspx?id=103493)
-|Security Update for Microsoft Office 2016|[KB 4484104](https://www.microsoft.com/es-ES/download/details.aspx?id=104255)
+|Security Update for Microsoft Office 2016|[KB 5001998](https://www.microsoft.com/es-ES/download/details.aspx?id=103493)|
+|Security Update for Microsoft Office 2016|[KB 4484104](https://www.microsoft.com/es-ES/download/details.aspx?id=104255)|
 
 
 
