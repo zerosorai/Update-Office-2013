@@ -86,6 +86,7 @@ enlace para descarga en GDrive
   
 |**Año de publicación**|**Fecha de publicación**|**Número de versión**|**Más información**|
 |:-----|:-----|:-----|:-----|
+|2023|May 9	|	15.0.5553.1000|[KB 5002088]([https://support.microsoft.com/help/5002077])
 |2022|June 14	|	15.0.5459.1000|[KB 5002076](https://support.microsoft.com/help/5002077)
 ||May 10|15.0.5449.1000|[KB 5002076](https://support.microsoft.com/help/5002076)
 ||12 de Abril|15.0.5441.1000|[KB 5002075](https://support.microsoft.com/help/5002075)
